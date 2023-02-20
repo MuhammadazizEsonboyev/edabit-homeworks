@@ -34,7 +34,7 @@ function calcAge(age) {
 ```
 ----
 
-[4. Volume of a Box](https://edabit.com/challenge/ms3q5GYSpFpwxeFWX)
+[4.Volume of a Box](https://edabit.com/challenge/ms3q5GYSpFpwxeFWX)
 
 Solution
 ```js
